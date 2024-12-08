@@ -1,0 +1,14 @@
+setuptools
+wheel
+python-dotenv
+matplotlib
+seaborn
+numpy
+datasets
+pandas
+wordcloud
+nltk
+tokenizers
+tqdm
+spacy
+scikit-learn
