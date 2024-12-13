@@ -12,3 +12,4 @@ tokenizers
 tqdm
 spacy
 scikit-learn
+torch
